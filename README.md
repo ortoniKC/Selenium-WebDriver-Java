@@ -5,29 +5,29 @@
 [Watch on Youtube](https://youtu.be/rDd16R96w4s)
 
 Chapters covered in this course:
-04:50 Chapter 0 - Installation
-11:00 Chapter 1 - First Script 
-36:00 Chapter 2 - Close VS Quit
-41:27 Chapter 3 - System SetProperty
-44:34 Chapter 4 - Maxmimize
-47:58 Chapter 5 - Inputs
-01:10:15 Chapter 6 - Buttons
-01:22:15 Chapter 7 - Drop-down
-01:45:00 Chapter 8 - Alert
-02:00:30 Chapter 9 - Frame
-02:14:20 Chapter 10 - UI Validation
-02:22:04 Chapter 11 - Window handling
-02:30:55 Chapter 12 - Find Elements
-02:38:20 Chapter 13 - Web Table
-02:50:10 Chapter 14 - Navigation
-02:56:18 Chapter 15 - Implicit wait
-03:02:40 Chapter 16 - Explicit wait
-03:17:00 Chapter 17 - Actions
-03:33:44 Chapter 18 - Title
-03:36:34 Chapter 19 - Page Object Model
-04:20:45 Chapter 20 - Page Factory
-04:34:20 Chapter 21 - Using base class
-04:41:10 Capter 22 - Conclusion
+- 04:50 Chapter 0 Installation
+- 11:00 Chapter 1 First Script 
+- 36:00 Chapter 2 Close VS Quit
+- 41:27 Chapter 3 System SetProperty
+- 44:34 Chapter 4 Maxmimize
+- 47:58 Chapter 5 Inputs
+- 01:10:15 Chapter 6  Buttons
+- 01:22:15 Chapter 7  Drop-down
+- 01:45:00 Chapter 8  Alert
+- 02:00:30 Chapter 9  Frame
+- 02:14:20 Chapter 10 UI Validation
+- 02:22:04 Chapter 11 Window handling
+- 02:30:55 Chapter 12 Find Elements
+- 02:38:20 Chapter 13 Web Table
+- 02:50:10 Chapter 14 Navigation
+- 02:56:18 Chapter 15 Implicit wait
+- 03:02:40 Chapter 16 Explicit wait
+- 03:17:00 Chapter 17 Actions
+- 03:33:44 Chapter 18 Title
+- 03:36:34 Chapter 19 Page Object Model
+- 04:20:45 Chapter 20 Page Factory
+- 04:34:20 Chapter 21 Using base class
+- 04:41:10 Chapter 22 Conclusion
 
 
 Chapter 0: Installation

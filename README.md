@@ -4,7 +4,7 @@
 
 [Watch on Youtube](https://youtu.be/rDd16R96w4s)
 
-Chapters covered in this course:
+### Timeline:
 - 04:50 Chapter 0 Installation
 - 11:00 Chapter 1 First Script 
 - 36:00 Chapter 2 Close VS Quit
@@ -29,77 +29,78 @@ Chapters covered in this course:
 - 04:34:20 Chapter 21 Using base class
 - 04:41:10 Chapter 22 Conclusion
 
+### Chapters covered in this course:
 
-Chapter 0: Installation
+- Chapter 0: Installation
 In this chapter, we'll learn how to install JDK 11 and Eclipse.
 Then we are going to create a Maven Project.
 We'll add the selenium dependencies.
 
-Chapter 1:First Script 
+- Chapter 1:First Script 
 In this chapter, we're going to write our first test script and execute the same with java main method. Before writing the script we'll understand the driver concept and how to download or update the browser drivers.
 We'll start with a basic test script to login into our test application.
 
-Chapter 2: Close VS Quit
+- Chapter 2: Close VS Quit
 In this chapter, we'll understand the difference between close and quit function in Selenium WebDriver.
 
-Chapter 3: System SetProperty
+- Chapter 3: System SetProperty
 In this chapter, we'll learn what is System.setProperty means and if it is mandatory?
 
-Chapter 4: Maxmimize
+- Chapter 4: Maxmimize
 In this chapter, we are going to understand the basic syntax of maximizing the browser and also the java concept behind this.
 
-Chapter 5: Inputs
+- Chapter 5: Inputs
 In this chapter, we'll learn  the basic actions like how to interact with different types of input fields.
 
-Chapter 6: Buttons
+- Chapter 6: Buttons
 In this chapter, we'll learn  the basic actions like how to interact with different types of button fields
 
-Chapter:7 Drop-down
+- Chapter:7 Drop-down
 In this chapter, we'll learn how to interact with different types of dropdown.
 
-Chapter 8: Alert
+- Chapter 8: Alert
 In this chapter, we'll learn how to interact with different types of Alerts.
 
-Chapter 9: Frame
+- Chapter 9: Frame
 In this chapter, we'll learn how to interact with different types of Frames.
 
-Chapter 10: UI Validation
+- Chapter 10: UI Validation
 In this chapter, we'll learn how to perform the basic validation using Selenium.
 
-Chapter 11: Window handling
+- Chapter 11: Window handling
 In this chapter, we'll learn how to interact with different types of dropdown.
 
-Chapter 12: Find Elements
+- Chapter 12: Find Elements
 In this chapter, we'll learn how to find multiple elemenst using selenium.
 
-Chapter 13: Web Table
+- Chapter 13: Web Table
 In this chapter, we'll learn how to handle web tables in selenium.
 
-Chapter 14: Navigation
+- Chapter 14: Navigation
 In this chapter, we'll learn how to do the naviagation like back, forward and refresh using selenium.
 
-Chapter 15: Implicit wait
+- Chapter 15: Implicit wait
 In this chapter, we'll learn how to use the implicit wait and why we must use it.
 
-Chapter 16: Explicit wait
+- Chapter 16: Explicit wait
 In this chapter, we'll learn how to use the explicit wait and why we must use it.
 
-Chapter 17: Actions
+- Chapter 17: Actions
 In this chapter, we'll learn how to Actions class in Selnium and perform actions like drag and drop, mouse and keyboard actions.
 
-Chapter 18: Title
+- Chapter 18: Title
 In this chapter, we'll learn how to validate the page title.
 
-Chapter 19: Page Object Model
+- Chapter 19: Page Object Model
 In this chapter, we'll learn what is POM and how to use it.
 
-Chapter 20: Page Factory
+- Chapter 20: Page Factory
 In this chapter, we'll learn what is Page Factory and how to use it.
 
-Chapter 21: Using base class
+- Chapter 21: Using base class
 In all the chapters, we crated a base class, let's see how to use base class in Selenium. 
 
-Chapter 22: Conclusion
+- Chapter 22: Conclusion
 Congratualation, we have learn the Selenium, next what to do?
 
 ## Practice ⏳

@@ -112,7 +112,7 @@ Congratualation, we have learn the Selenium, next what to do?
 
 ## TODO ☑
 
-- Complete the pages from the [test page](https://www.letcode.com/test)
+- Complete the pages from the [test page](https://www.letcode.in/)
 - And the most important subscribe to LetCode 😉
 
 ## Support [![Gitter](https://badges.gitter.im/letcode-selenium/community.svg)](https://gitter.im/letcode-selenium/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
